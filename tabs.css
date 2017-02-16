@@ -1,0 +1,13 @@
+﻿body
+{
+}
+div.nav-tab{
+    background-color: aquamarine;
+}
+a.navigation{
+    text-decoration: none;
+    color: dimgray;
+}
+div:hover.nav-tab{
+    background-color:aqua;
+}
